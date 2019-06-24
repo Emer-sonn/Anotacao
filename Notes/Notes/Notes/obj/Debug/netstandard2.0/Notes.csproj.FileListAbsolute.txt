@@ -1,0 +1,16 @@
+E:\Nova pasta (2)\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+E:\Nova pasta (2)\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+E:\Nova pasta (2)\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+E:\Nova pasta (2)\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Nova pasta (2)\Notes\Notes\Notes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Nova pasta (2)\Notes\Notes\Notes\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+E:\Nova pasta (2)\Notes\Notes\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+E:\Nova pasta (2)\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+E:\Nova pasta (2)\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+E:\Nova pasta (2)\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+E:\Nova pasta (2)\Notes\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+E:\Nova pasta (2)\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+E:\Nova pasta (2)\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Nova pasta (2)\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+E:\Nova pasta (2)\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+E:\Nova pasta (2)\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
